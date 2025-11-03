@@ -1,1 +1,19 @@
 .env
+
+# Large binary & database files
+*.sqlite3
+*.duckdb
+*.bin
+*.pickle
+*.faiss
+*.pkl
+*.idx
+
+# Chroma / FAISS index folders
+chroma_db/
+faiss_index/
+2eac1f65-0112-4892-b4aa-3d2b55a4b53e/
+a8028730-8663-4308-b986-0aa0c30bec0d/
+b4687ab5-b59c-464f-877f-8fee4fcaa68c/
+e2c6dfae-af54-44fa-80bf-9df8d25d9303/
+
