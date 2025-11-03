@@ -1,0 +1,51 @@
+Order ID,Client Name,Email,Contact Number,Origin,Destination,Product Name,Category,Material,Color,Quantity,Unit Price (₹),Total Price (₹),Order Date,Delivery Date,Status
+ORD0001,Kara Mata,chelsea75@yahoo.com,038.830.3017x8206,Port Mariamouth,Cohenmouth,Wall Art,Decor,Glass,Grey,15,29878,448170,2025-05-13,2025-06-02,Cancelled
+ORD0002,Jesse Williams,ccasey@barrett.info,(426)505-2355,Tamaraview,Lake Rickyport,Bed,Furniture,Glass,Brown,30,1507,45210,2025-10-04,2025-11-03,Cancelled
+ORD0003,Anthony Waters,robert76@mason.com,001-686-931-6690x011,Meltonfort,Kathleentown,Air Conditioner,Appliances,Ceramic,Black,11,21486,236346,2025-05-23,2025-06-09,In Transit
+ORD0004,Regina Jordan,wilsonrachel@myers-osborne.info,+1-415-232-4634,South Karen,North Lauraview,Sofa,Furniture,Glass,Grey,19,21438,407322,2025-07-21,2025-08-13,Cancelled
+ORD0005,Jordan Bowers,coxtamara@gmail.com,(673)654-6742x16790,Port Kimberlyhaven,New Annettehaven,Bed,Furniture,Glass,Black,1,8102,8102,2025-05-16,2025-06-07,In Transit
+ORD0006,Angela Mendoza,suttonpeter@hotmail.com,(680)095-2402x30052,Port Michaelbury,North Steven,Lamp,Decor,Metal,Grey,6,5994,35964,2025-05-08,2025-05-12,In Transit
+ORD0007,Charlene Nunez,wadestephanie@yahoo.com,+1-959-522-6897x818,New Brittany,Port Brettborough,Wall Art,Decor,Ceramic,Beige,22,8608,189376,2025-06-19,2025-07-05,In Transit
+ORD0008,Teresa Walker,dgreen@avila-tran.com,(268)125-0602x51368,Rebeccatown,North Amanda,Heater,Appliances,Marble,Brown,18,9169,165042,2025-06-22,2025-07-16,Delivered
+ORD0009,Scott Mckenzie,msavage@yahoo.com,044-517-0114x5220,Tarahaven,Lake Sarah,Wall Tiles,Ceramics,Marble,Beige,36,13105,471780,2025-10-07,2025-10-14,Shipped
+ORD0010,David Johnson,xhughes@perez.info,031.142.4919x986,North Lancefurt,South Jose,Mirror,Decor,Ceramic,Green,18,12218,219924,2025-05-08,2025-05-25,Pending
+ORD0011,Karen Lee,ladams@johnson-gill.com,+1-698-330-4269,East Troyfort,West Jamesmouth,Bed,Furniture,Ceramic,Brown,40,21995,879800,2025-10-14,2025-10-29,Pending
+ORD0012,Eric Barrera,kellymartinez@yahoo.com,384-769-4319,North Matthewfurt,Davidbury,Air Conditioner,Appliances,Ceramic,Black,11,19221,211431,2025-09-09,2025-10-05,Pending
+ORD0013,Eugene Bowers,iglass@gonzalez.com,(837)045-8831x028,Ericfurt,Alvarezstad,Wall Tiles,Ceramics,Metal,White,28,21273,595644,2025-08-30,2025-09-03,Pending
+ORD0014,Daniel Fowler,jonathansmith@hoffman.com,5858988889,New Anthony,Lake Samantha,Dining Table,Furniture,Plastic,Black,39,1963,76557,2025-10-02,2025-10-12,Delivered
+ORD0015,Mr. Peter Chambers,karen51@gates.com,600.441.9413x135,East Russell,Kylehaven,Mirror,Decor,Wood,Black,41,7739,317299,2025-07-11,2025-07-17,Delivered
+ORD0016,Paul Wright,lucasrichards@white.com,241-184-1361,Fergusonville,South Brandon,Wardrobe,Furniture,Plastic,Green,16,10021,160336,2025-08-21,2025-09-12,Delivered
+ORD0017,Joseph Lang,samueldavis@lee.com,(634)687-5465x0563,Port Cheryl,Lake Jasminemouth,Washing Machine,Appliances,Ceramic,Green,20,17289,345780,2025-05-23,2025-05-28,Cancelled
+ORD0018,Wendy Olson,barbarahernandez@harris-wilson.com,(290)627-7672x94902,Mcknightburgh,Clarkeside,Toilet Bowl,Ceramics,Marble,Blue,32,17897,572704,2025-06-02,2025-06-27,Delivered
+ORD0019,James Chapman,fcarpenter@hotmail.com,2970034873,Joshuashire,South Ambershire,Curtain,Decor,Ceramic,Black,40,4689,187560,2025-10-11,2025-10-27,In Transit
+ORD0020,April Adams,phamjoshua@castro-kelly.com,+1-987-825-3194x52364,West Heather,Port Douglasside,Refrigerator,Appliances,Marble,Brown,26,11610,301860,2025-05-14,2025-05-30,In Transit
+ORD0021,Whitney Gibbs,chavezomar@hotmail.com,(541)010-5453x93933,Bobbyton,Lake Tiffany,Wall Tiles,Ceramics,Glass,Green,16,25297,404752,2025-09-21,2025-09-29,Cancelled
+ORD0022,Edward Perez,rtrujillo@gmail.com,(323)091-9236,North Jennifer,Chenbury,Heater,Appliances,Metal,Brown,29,11342,328918,2025-08-01,2025-08-22,Pending
+ORD0023,Mariah Jackson,tswanson@turner.net,(035)730-0181x250,Davisborough,Snowburgh,Air Conditioner,Appliances,Glass,Green,49,7117,348733,2025-10-18,2025-11-05,Delivered
+ORD0024,William Carter,william72@gmail.com,001-371-394-1796x66757,Port Kevinland,Welchton,Chair,Furniture,Glass,Grey,32,14556,465792,2025-08-31,2025-09-22,Cancelled
+ORD0025,Kyle Golden,fishernicholas@gmail.com,001-408-750-2315x6570,Jenniferland,Coltonstad,Washing Machine,Appliances,Marble,Beige,22,24589,540958,2025-05-18,2025-05-22,Shipped
+ORD0026,Jeremy Williams,brooksjanice@yahoo.com,791-162-2181x3805,New Stephenmouth,Sosaland,Floor Tiles,Ceramics,Glass,Black,29,24921,722709,2025-05-02,2025-05-23,In Transit
+ORD0027,Cynthia Campbell DDS,xashley@gonzales.biz,+1-545-658-6306,Woodsside,Brownside,Chair,Furniture,Glass,Brown,37,15251,564287,2025-09-19,2025-10-17,Pending
+ORD0028,Luis Wright,pleonard@gmail.com,8921956244,Kingside,Dunnside,Microwave,Appliances,Wood,Black,26,14427,375102,2025-09-14,2025-10-14,Pending
+ORD0029,Kristen Collins,joseph05@moore.info,+1-632-063-5725x1807,Port Rachelburgh,South Cynthia,Floor Tiles,Ceramics,Ceramic,Grey,9,5149,46341,2025-10-24,2025-11-04,Pending
+ORD0030,Kenneth Johnson,dwarner@yahoo.com,074-323-3278x50833,South Angela,New Jonathanton,Floor Tiles,Ceramics,Marble,Black,42,19964,838488,2025-09-24,2025-10-08,Shipped
+ORD0031,Patrick Murphy,caitlinhernandez@hotmail.com,1809595192,Port Marcus,Taylorberg,Porcelain Sink,Ceramics,Marble,White,46,1920,88320,2025-06-15,2025-07-14,Pending
+ORD0032,Michael Ford,ele@gmail.com,815-989-3939x1063,Lake Danielle,Gordonhaven,Microwave,Appliances,Wood,White,48,20329,975792,2025-07-01,2025-07-29,Cancelled
+ORD0033,Gary Malone,kristen45@hotmail.com,(553)811-7206x66616,Greenshire,Bakerberg,Bed,Furniture,Glass,Grey,11,27859,306449,2025-08-28,2025-09-18,Cancelled
+ORD0034,Cindy Kirk,cnguyen@roberts.com,(117)154-4252x8247,Rubenmouth,Amandabury,Wardrobe,Furniture,Ceramic,Beige,5,29229,146145,2025-06-09,2025-06-16,Delivered
+ORD0035,Michael Roberson,zcampos@sanchez.org,907.719.2389x99046,Fisherbury,Wrightton,Bathtub,Ceramics,Wood,Grey,7,24155,169085,2025-09-18,2025-10-13,Cancelled
+ORD0036,Emily Martin,sullivanchristopher@hotmail.com,(138)208-6917x7978,Lake Andrea,South Xavier,Microwave,Appliances,Metal,Brown,5,2362,11810,2025-05-25,2025-06-22,In Transit
+ORD0037,John Allen,joneslaurie@gutierrez-molina.org,790-513-7169x4677,Fordbury,East Michaelshire,Lamp,Decor,Wood,Blue,17,21793,370481,2025-09-17,2025-09-27,Cancelled
+ORD0038,Sherry Wilson,zpalmer@gmail.com,4299300372,Port Charlesville,Shermanshire,Microwave,Appliances,Glass,Beige,19,10731,203889,2025-05-12,2025-05-19,In Transit
+ORD0039,Matthew Smith,kristengardner@morris-dixon.net,(087)410-9077x52407,East Sierrahaven,New Caitlinbury,Heater,Appliances,Marble,White,16,2620,41920,2025-05-12,2025-06-04,Cancelled
+ORD0040,Jonathan Jones,cyates@gmail.com,(883)837-8200x3445,Wardville,East Crystalhaven,Wardrobe,Furniture,Plastic,Brown,4,27613,110452,2025-05-27,2025-05-30,Pending
+ORD0041,Dr. Timothy Hodges MD,jason56@hotmail.com,558-050-5988,Amandatown,Davidmouth,Wardrobe,Furniture,Plastic,Grey,16,20972,335552,2025-07-01,2025-07-08,Shipped
+ORD0042,Katherine Collins,pacejason@mendoza.com,192.863.8075x28531,Wilsonstad,Marshallview,Mirror,Decor,Plastic,Blue,2,4198,8396,2025-07-03,2025-07-09,Delivered
+ORD0043,Jamie Graves,holtbradley@craig.com,(649)589-7588,North Philiphaven,Port Brittany,Curtain,Decor,Glass,Grey,44,28064,1234816,2025-07-03,2025-07-08,Delivered
+ORD0044,Ashley Young,mark55@horne.net,694-598-4362x99869,Perrychester,Rebekahberg,Bed,Furniture,Metal,Beige,19,7040,133760,2025-07-13,2025-07-29,Delivered
+ORD0045,Barbara Brewer,fgonzalez@hotmail.com,001-579-665-3908x7242,Port Kyle,Lake Danielle,Washing Machine,Appliances,Glass,Brown,1,3303,3303,2025-10-03,2025-10-22,Shipped
+ORD0046,Mr. Benjamin Howard,nicholas74@pugh-harrell.com,672.682.2440,East Stacy,Steveside,Air Conditioner,Appliances,Plastic,Grey,25,17862,446550,2025-08-30,2025-09-17,Pending
+ORD0047,Candace Huffman,dbenson@mitchell.com,7792792713,Mcdonaldside,New Sheila,Bed,Furniture,Glass,White,42,15768,662256,2025-10-06,2025-11-04,In Transit
+ORD0048,Patrick Lee Jr.,kelly86@brennan-harvey.com,+1-508-743-5855x91504,Lake Susanside,Jocelynbury,Curtain,Decor,Wood,Green,35,29277,1024695,2025-10-08,2025-11-05,Shipped
+ORD0049,Christine Wilcox,amanda11@ward-camacho.biz,(636)345-0124x51607,Richardborough,New Joshua,Washing Machine,Appliances,Metal,Green,9,23466,211194,2025-08-24,2025-09-11,In Transit
+ORD0050,Donna Hines,pconway@rice.com,599-385-8670x35962,Robertfurt,New Emily,Mirror,Decor,Wood,Brown,24,21929,526296,2025-08-15,2025-09-11,Delivered
